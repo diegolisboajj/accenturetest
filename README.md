@@ -1,4 +1,4 @@
-# Accenture Teste
+# Accenture Test
 
 Backend em **NodeJS** com banco de dados NoSQL **MongoDB**.
 
