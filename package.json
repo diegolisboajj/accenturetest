@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=production node index.js",
-    "dev": "npx nodemon index.js && npm test ",
+    "dev": "npx nodemon index.js",
     "test": "jest"
   },
   "keywords": [],
